@@ -1,0 +1,10 @@
+[10-Oct-2015 19:37:00 Europe/Istanbul] PHP Warning:  Division by zero in /home/neduzaka/public_html/systemPHP/dersISLEM.php on line 204
+[10-Oct-2015 19:37:00 Europe/Istanbul] PHP Fatal error:  Call to a member function fetchColumn() on a non-object in /home/neduzaka/public_html/systemPHP/dersISLEM.php on line 208
+[11-Oct-2015 01:27:39 Europe/Istanbul] PHP Warning:  Division by zero in /home/neduzaka/public_html/systemPHP/dersISLEM.php on line 204
+[11-Oct-2015 01:27:39 Europe/Istanbul] PHP Fatal error:  Call to a member function fetchColumn() on a non-object in /home/neduzaka/public_html/systemPHP/dersISLEM.php on line 208
+[11-Oct-2015 07:41:13 Europe/Istanbul] PHP Warning:  Division by zero in /home/neduzaka/public_html/systemPHP/dersISLEM.php on line 204
+[11-Oct-2015 07:41:13 Europe/Istanbul] PHP Fatal error:  Call to a member function fetchColumn() on a non-object in /home/neduzaka/public_html/systemPHP/dersISLEM.php on line 208
+[11-Oct-2015 13:30:29 Europe/Istanbul] PHP Warning:  Division by zero in /home/neduzaka/public_html/systemPHP/dersISLEM.php on line 204
+[11-Oct-2015 13:30:29 Europe/Istanbul] PHP Fatal error:  Call to a member function fetchColumn() on a non-object in /home/neduzaka/public_html/systemPHP/dersISLEM.php on line 208
+[11-Oct-2015 19:37:27 Europe/Istanbul] PHP Warning:  Division by zero in /home/neduzaka/public_html/systemPHP/dersISLEM.php on line 204
+[11-Oct-2015 19:37:27 Europe/Istanbul] PHP Fatal error:  Call to a member function fetchColumn() on a non-object in /home/neduzaka/public_html/systemPHP/dersISLEM.php on line 208
